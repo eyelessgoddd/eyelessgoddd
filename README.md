@@ -44,3 +44,10 @@
 
 </p>
 
+<p align="center">
+  <a href="https://t.me/eyelessg0d"><img src="https://img.shields.io/badge/📩_Communication-Telegram-2CA5E0?style=flat-square&logo=telegram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyelessgoddd&color=00ff41&style=flat-square&label=Profile+Views" />
+</p>
