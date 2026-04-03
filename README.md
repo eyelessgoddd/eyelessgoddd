@@ -37,14 +37,13 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
-
-
 </p>
 
 <p align="center">
-  <a href="https://t.me/eyelessg0d"><img src="https://img.shields.io/badge/📩_Communication-Telegram-2CA5E0?style=flat-square&logo=telegram" /></a>
+  <a href="https://t.me/eyelessg0d"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/eyelessgod"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyelessgoddd&color=00ff41&style=flat-square&label=Profile+Views" />
+  <a href="https://tryhackme.com/p/eyelessgod"><img src="https://tryhackme-badges.s3.amazonaws.com/eyelessgod.png" alt="TryHackMe Badge" /></a>
 </p>
