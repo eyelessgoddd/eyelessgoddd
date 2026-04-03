@@ -43,7 +43,3 @@
   <a href="https://t.me/eyelessg0d"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/eyelessgod"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/eyelessgod"><img src="https://tryhackme-badges.s3.amazonaws.com/eyelessgod.png" alt="TryHackMe Badge" /></a>
-</p>
