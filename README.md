@@ -44,21 +44,3 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyelessgoddd&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyelessgoddd&theme=chartreuse-dark&hide_border=true&background=0d1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyelessgoddd&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" width="40%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyelessgoddd&color=00ff41&style=flat-square&label=Profile+Views" />
-</p>
