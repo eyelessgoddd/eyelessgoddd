@@ -1,45 +1,81 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=eyelessg0d;AppSec+Engineer;Security+Researcher" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>Even if we lose our way on the way to the stars, we will still find ourselves in space.</em>
-</p>
+# `eyelessg0d`
 
----
+**AppSec Engineer · Security Researcher**
 
-## 🛡️ About Me
+<sub><em>"Even if we lose our way on the way to the stars, we will still find ourselves in space."</em></sub>
 
-- 🔍 **Application Security** — Code review, threat modeling, secure SDLC
-- 🕵️ **Vulnerability Research** — Finding and responsibly disclosing vulnerabilities
-- 📝 **Security Code Review** — Auditing open-source frameworks and applications
+</div>
 
 ---
 
-## ⚡ Tech Stack & Tools
+```bash
+┌──(eyelessg0d㉿offensive)-[~]
+└─$ cat /etc/profile
+```
 
-<p align="center">
+```yaml
+operator:      eyelessg0d
+role:          AppSec Engineer // Security Researcher
+specialties:
+  - application_security:   [code_review, threat_modeling, secure_sdlc]
+  - vulnerability_research: [discovery, triage, disclosure]
+  - offensive_security:     [web, api, network]
+status:        always_learning
+```
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+---
 
-<!-- Security Tools -->
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+## `./arsenal.sh`
 
-<!-- Platforms -->
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<div align="center">
 
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a0a0a0&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=a0a0a0&labelColor=0d1117)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=a0a0a0&labelColor=0d1117)
 
-<p align="center">
-  <a href="https://t.me/eyelessg0d"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/eyelessgod"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burp-suite&logoColor=a0a0a0&labelColor=0d1117)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0d1117?style=flat-square&logo=owasp&logoColor=a0a0a0&labelColor=0d1117)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=a0a0a0&labelColor=0d1117)
+
+![Kali](https://img.shields.io/badge/Kali-0d1117?style=flat-square&logo=kali-linux&logoColor=a0a0a0&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a0a0a0&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=a0a0a0&labelColor=0d1117)
+
+</div>
+
+---
+
+## `./disclosures.log`
+
+```bash
+┌──(eyelessg0d㉿offensive)-[~]
+└─$ grep -r "CVE" ./findings/ | sort -r
+```
+
+| ID | Target | Severity | Status |
+|:---|:---|:---:|:---:|
+| `CVE-2026-40201` | `Diplodoc (Yandex)` | Medium | Awaiting the patch |
+| `GHSA-4wrc-9cqj-jpfx` | `wait` | High | Awaiting the patch |
+| `GHSA-qvhq-jggf-7jf3` | `wait` | High | Awaiting the patch |
+
+
+---
+
+
+
+## `./contact.sh`
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=a0a0a0&labelColor=0d1117)](https://t.me/eyelessg0d)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=flat-square&logo=tryhackme&logoColor=a0a0a0&labelColor=0d1117)](https://tryhackme.com/p/eyelessgod)
+
+</div>
+
+---
+
+<div align="center">
+<sub><code>connection closed · stay curious · stay ethical</code></sub>
+</div>
