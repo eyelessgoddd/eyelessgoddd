@@ -56,7 +56,7 @@ status:        always_learning
 
 | ID | Target | Severity | Status |
 |:---|:---|:---:|:---:|
-| `CVE-2026-40201` | `Diplodoc (Yandex)` | Medium | Awaiting the patch |
+| `CVE-2026-40201` | `Diplodoc (Yandex)` | Medium | Published |
 | `GHSA-4wrc-9cqj-jpfx` | `wait` | High | Awaiting the patch |
 | `GHSA-qvhq-jggf-7jf3` | `wait` | High | Awaiting the patch |
 
